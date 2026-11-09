@@ -20,7 +20,7 @@ Originally written to archive [Димитър Тянев's *Организаци
 Requires **Node 20+** (native `fetch`).
 
 ```bash
-git clone https://github.com/<you>/scrape-cli.git
+git clone https://github.com/Mitko-M/scraper.git
 cd scrape-cli
 npm install
 npm run build
