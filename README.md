@@ -152,4 +152,4 @@ This tool honors `robots.txt` and sends an identifiable `User-Agent` by default.
 
 ## License
 
-MIT — see [LICENSE](./LICENSE) if present, or add one.
+MIT — see [LICENSE](./LICENSE)
